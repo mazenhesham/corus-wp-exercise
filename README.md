@@ -51,4 +51,6 @@ Modify the 'Corus Theme' to add the following functionality:
 * Please use OOP where necessary
 * Please use best security & sanitization practices where necessary
 * Please use Git workflow best practices 
-* Submit the completed work in the forked repository for review (please ensure that the repo is public)
+* Submit the url to your forked repo with the completed work for review (please ensure that the repo is public)
+* **Please do not push anything to this repo**
+
