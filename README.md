@@ -52,6 +52,6 @@ Modify the 'Corus Theme' to add the following functionality:
 * Please use best security & sanitization practices where necessary
 * Please use Git workflow best practices 
 * Submit the url to your forked repo with the completed work for review (please ensure that the repo is public)
-* Submit a backup of your working database in an .sql format.
+* Submit a backup of your working database in an .sql format
 * **Please do not push anything to this repo**
 
