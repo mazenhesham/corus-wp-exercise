@@ -38,6 +38,7 @@ if ( !class_exists( 'Corus_Init' ) ):
 		public function main_imports() {
 
 			require_once $this->theme_dir . '/inc/class-corus-custom-post.php';
+			require_once $this->theme_dir . '/inc/class-corus-enqueue-scripts.php';
 		}
 
 
